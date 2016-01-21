@@ -1,0 +1,6 @@
+What is require() and how does it work?
+
+-> Similar to #include in C or import in Java
+-> To load and cache modules present in different files, it's return value assigned to a variable.
+-> Will try to load index.js or index.node file in that file/folder. If not +nt then error.
+-> 
